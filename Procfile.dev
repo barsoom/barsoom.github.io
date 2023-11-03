@@ -1,0 +1,2 @@
+web: ruby -run -e httpd dist -p $PORT
+guard: guard -i
