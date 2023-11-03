@@ -15,4 +15,6 @@ TODO: Run guard automatically via Devbox.
 
 ## Production
 
-Deployed via [GitHub Pages](https://pages.github.com/). Just push.
+Just push.
+
+Deployed via [GitHub Pages](https://pages.github.com/) and the workflow in `.github/workflows/main.yml`.

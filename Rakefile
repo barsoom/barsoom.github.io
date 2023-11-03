@@ -19,4 +19,7 @@ namespace :compile do
       puts "Compiled #{file} to CSS!"
     end
   end
+
+  desc "Compile Slim and Sass"
+  task :all => [ :slim, :sass ]
 end
