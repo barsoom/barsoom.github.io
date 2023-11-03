@@ -1,4 +1,4 @@
 .bundle/
-dist/
+dist/*
 !dist/.keep
 tmp/
