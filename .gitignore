@@ -1,4 +1,6 @@
 .bundle/
-dist/*
-!dist/.keep
 tmp/
+
+# Generated.
+dist/*.html
+dist/*.css
