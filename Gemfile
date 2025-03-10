@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # NOTE: Keep in sync with .github/workflows/main.yml.
-ruby "3.3.5"
+ruby file: ".ruby-version"
 
 gem "rake"
 gem "webrick"
